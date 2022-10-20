@@ -1,0 +1,5 @@
+sinav1=int(input('not1 giriniz  '))
+sinav2=int(input('not2 giriniz '))
+sinav3=int(input('not3 giriniz '))
+snv_orta=int(((sinav1+sinav2+sinav3)/3))
+print(snv_orta)
