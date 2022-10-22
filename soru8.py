@@ -1,6 +1,6 @@
 sayi1 = int(input("Lütfen sayıyı giriniz: "))
 
-if (sayi1)%2 == 0:
+if (sayi1) % 2 == 0:
     print("Girdiğiniz sayı çifttir.")
 
 elif sayi1 == 0:

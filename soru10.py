@@ -1,9 +1,8 @@
-boy=float(input('boy uzunlugu'))
+boy = float(input('boy uzunlugu'))
 print(boy)
 
-kilo=int(input('kilo agırlıgı'))
+kilo = int(input('kilo agırlıgı'))
 print(kilo)
 
-vki=(kilo/(boy*boy))
+vki = (kilo / (boy * boy))
 print(vki)
-

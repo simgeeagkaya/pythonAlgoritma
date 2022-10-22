@@ -1,4 +1,4 @@
-yarıcap=int(input('çemberin yarıçapını giriniz'))
-pi=3.14
-cevre=(2*3.14*yarıcap)
-print('cember cevresi',cevre)
+import math
+yaricap = int(input('çemberin yarıçapını giriniz'))
+cevre = (2 * math.pi * yaricap)
+print('cember cevresi', cevre)

@@ -1,2 +1,2 @@
-isim =input('merhaba isminizi giriniz:')
+isim = input('merhaba isminizi giriniz:')
 print(isim)
