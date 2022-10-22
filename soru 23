@@ -1,0 +1,2 @@
+ sayi1 = int(input("istediğiniz bir sayıyı giriniz"))
+ for sayac in range (1, sayi1):
