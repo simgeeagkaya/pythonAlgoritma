@@ -1,13 +1,13 @@
 
-toplam=0
+toplam = 0
 
 while True:
-    sayi=int(input("Sayı Gir:"))
-    if sayi==0:
+    sayi = int(input("Sayı Gir:"))
+    if sayi == 0:
         break
     else:
-        toplam+=sayi
+        toplam += sayi
 
-print("Toplam = ",toplam)
+print("Toplam = ", toplam)
 
 
