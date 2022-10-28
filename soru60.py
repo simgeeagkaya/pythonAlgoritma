@@ -1,0 +1,6 @@
+x = input("sayı giriniz")
+y = input("sayı giriniz")
+komut = input("istediğiniz işlemi giriniz:  (+, -,*, /)")
+islem = (x + komut + y)
+sonuc = eval(islem)
+print(sonuc)
