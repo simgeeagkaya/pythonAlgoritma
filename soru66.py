@@ -1,4 +1,4 @@
-menü ={
+menu = {
 "tavuk doner": 15,
 "hatay dürüm": 15,
 "tam ekmek tavuk doner ": 19,
@@ -8,7 +8,7 @@ menü ={
 "tavuk pilav": 65,
 "serpme kahvaltı ": 120,
 "pide": 20,
+"kokorec":45
 }
-for key, value in menü.items():
-  print(key, ": ", value)
-
+for i in menu:
+    print(i,end="-")
